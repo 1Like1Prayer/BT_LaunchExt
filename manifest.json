@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "name": "BT_LaunchExt",
+  "description": "The Official BlueTorch Launcher Extension ",
+  "permissions": ["activeTab", "tabs"],
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "BT_LaunchExt"
+  }
+}
